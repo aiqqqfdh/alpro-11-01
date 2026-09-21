@@ -4,5 +4,5 @@ Langkah-langkah:
 2. Ambil 1 bola  menggunakan tangan
 3. Keluarkan tangan dari dalam kotak
 4. Taruk bola sementara di wadah
-- Ulangi sampai semua bola di dalam kotak habis
-3. Susun bolanya secara berurutan
+5. Ulangi sampai semua bola di dalam kotak habis
+6. Susun bolanya secara berurutan
