@@ -1,4 +1,4 @@
-package introduction
+
 
 // Algoritma menghitung volume Baju
 // langkah-langkahnya:
@@ -11,9 +11,3 @@ package introduction
 // 7. menghitung volume lemari baju dengan cara mengalihkan panjang x lebar x tinggi]
 // 8. mencatat hasil akhir volume lemari
 // 9. selesai
-
-import "fmt"
-
-func introduction() {
-	fmt.Println("Hello:")
-}
