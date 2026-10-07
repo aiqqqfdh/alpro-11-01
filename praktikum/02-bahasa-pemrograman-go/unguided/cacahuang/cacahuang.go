@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var uang int
 
-	uang = 7000
+	uang = 129000
 
 	l10 := uang / 10000
 	s10 := uang % 10000
@@ -20,6 +20,5 @@ func main() {
 	fmt.Println(l5)
 
 	fmt.Println(l1)
-
 
 }
